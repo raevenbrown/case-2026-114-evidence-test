@@ -1,0 +1,2 @@
+- IMG_0412 laptop front
+- IMG_0413 serial label
