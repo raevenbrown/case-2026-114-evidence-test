@@ -2,3 +2,4 @@ From: vendor@example.net
 Subject: Q3 invoice
 
 See attached.
+[analysis] Received-from header shows external relay 203.0.113.7
